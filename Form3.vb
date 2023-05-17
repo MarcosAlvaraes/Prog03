@@ -5,7 +5,7 @@ Public Class Form3
         Dim aux As String
 
         If txtAltura.TextLength <> 0 And txtComprimento.TextLength <> 0 And txtLargura.TextLength <> 0 Then
-            aux = txtAltura.Text * txtComprimento.Text * txtLargura.Text
+            aux = Val(txtAltura.Text) * Val(txtComprimento.Text) * Val(txtLargura.Text)
             txtVolume.Text = aux
         End If
 
