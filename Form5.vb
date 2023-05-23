@@ -10,11 +10,17 @@ Public Class Form5
     End Sub
 
     Private Sub btnCorLegenda_Click(sender As Object, e As EventArgs) Handles btnCorLegenda.Click
-        Legenda.BackColor = Color.FromArgb(0, 125, 0)
+        Dim prim As Integer = CInt(Int((250 * Rnd()) + 1))
+        Dim seg As Integer = CInt(Int((250 * Rnd()) + 1))
+        Dim ter As Integer = CInt(Int((250 * Rnd()) + 1))
+        Legenda.BackColor = Color.FromArgb(prim, seg, ter)
     End Sub
 
     Private Sub btnCorForm_Click(sender As Object, e As EventArgs) Handles btnCorForm.Click
-        Me.BackColor = Color.FromArgb(125, 0, 0)
+        Dim prim As Integer = CInt(Int((250 * Rnd()) + 1))
+        Dim seg As Integer = CInt(Int((250 * Rnd()) + 1))
+        Dim ter As Integer = CInt(Int((250 * Rnd()) + 1))
+        Me.BackColor = Color.FromArgb(prim, seg, ter)
     End Sub
 
     Private Sub Button5_Click(sender As Object, e As EventArgs) Handles Button5.Click
