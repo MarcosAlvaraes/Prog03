@@ -26,6 +26,5 @@ Public Class Form5
     Private Sub Button5_Click(sender As Object, e As EventArgs) Handles Button5.Click
         Dim aux As Integer = CInt(Int((100 * Rnd()) + 1))
         Legenda.Text = aux
-
     End Sub
 End Class

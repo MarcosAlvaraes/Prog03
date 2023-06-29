@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\OneDrive - IEFP Formação\\Ambiente de Trabalho\\git02AnaAredes\\Prog03\\ProgGit0123.vbproj",
+      "projectUniqueName": "C:\\Users\\Admin\\OneDrive - IEFP Formação\\Ambiente de Trabalho\\Ana Aredes\\MDS\\gitAnaAredes_Prog03\\Prog03\\ProgGit0123.vbproj",
       "projectName": "ProgGit0123",
-      "projectPath": "C:\\Users\\Admin\\OneDrive - IEFP Formação\\Ambiente de Trabalho\\git02AnaAredes\\Prog03\\ProgGit0123.vbproj",
+      "projectPath": "C:\\Users\\Admin\\OneDrive - IEFP Formação\\Ambiente de Trabalho\\Ana Aredes\\MDS\\gitAnaAredes_Prog03\\Prog03\\ProgGit0123.vbproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\OneDrive - IEFP Formação\\Ambiente de Trabalho\\git02AnaAredes\\Prog03\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\OneDrive - IEFP Formação\\Ambiente de Trabalho\\Ana Aredes\\MDS\\gitAnaAredes_Prog03\\Prog03\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
